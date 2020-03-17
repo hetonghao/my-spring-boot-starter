@@ -1,0 +1,16 @@
+vc/thinker/config/AkkaConfig.class
+META-INF/spring-configuration-metadata.json
+vc/thinker/config/ApiConfig.class
+vc/thinker/config/MybatisPlusConfig.class
+vc/thinker/config/redis/RedisKeyExpiredListener.class
+vc/thinker/config/WebSocketConfig.class
+vc/thinker/config/response/UniteResponseAdvice.class
+vc/thinker/config/response/InconsistentReturn.class
+vc/thinker/config/web/WebProperties.class
+vc/thinker/config/JEasyRuleEngineConfig.class
+vc/thinker/config/KafkaConfig.class
+vc/thinker/config/redis/RedisConfig.class
+vc/thinker/config/web/WebAutoConfiguration.class
+vc/thinker/config/response/UniteResponseThrowHandler.class
+vc/thinker/config/DozerBeanConfig.class
+vc/thinker/config/FeignConfig.class

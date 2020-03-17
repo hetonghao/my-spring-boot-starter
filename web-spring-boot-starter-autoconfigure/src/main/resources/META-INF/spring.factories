@@ -1,0 +1,14 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+vc.thinker.config.web.WebAutoConfiguration,\
+vc.thinker.config.AkkaConfig,\
+vc.thinker.config.FeignConfig,\
+vc.thinker.config.JEasyRuleEngineConfig,\
+vc.thinker.config.WebSocketConfig,\
+vc.thinker.config.ApiConfig,\
+vc.thinker.config.DozerBeanConfig,\
+vc.thinker.config.KafkaConfig,\
+vc.thinker.config.MybatisPlusConfig,\
+vc.thinker.config.redis.RedisConfig,\
+vc.thinker.config.redis.RedisKeyExpiredListener,\
+vc.thinker.config.response.UniteResponseAdvice,\
+vc.thinker.config.response.UniteResponseThrowHandler

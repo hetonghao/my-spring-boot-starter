@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "redis",
+      "type": "vc.thinker.config.redis.RedisConfig",
+      "sourceType": "vc.thinker.config.redis.RedisConfig"
+    },
+    {
+      "name": "web",
+      "type": "vc.thinker.config.web.WebProperties",
+      "sourceType": "vc.thinker.config.web.WebProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "web.test1",
+      "type": "java.lang.String",
+      "sourceType": "vc.thinker.config.web.WebProperties"
+    },
+    {
+      "name": "web.test2",
+      "type": "java.lang.String",
+      "sourceType": "vc.thinker.config.web.WebProperties"
+    }
+  ],
+  "hints": []
+}

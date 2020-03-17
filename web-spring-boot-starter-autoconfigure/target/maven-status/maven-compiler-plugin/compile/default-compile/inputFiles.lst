@@ -1,0 +1,15 @@
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/AkkaConfig.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/response/UniteResponseAdvice.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/FeignConfig.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/web/WebProperties.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/MybatisPlusConfig.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/JEasyRuleEngineConfig.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/ApiConfig.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/KafkaConfig.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/redis/RedisKeyExpiredListener.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/web/WebAutoConfiguration.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/DozerBeanConfig.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/MqttConfig.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/response/UniteResponseThrowHandler.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/WebSocketConfig.java
+/Users/HTH/dev/IdeaProjects/spring-boot-starter-thinker/web-spring-boot-starter-autoconfigure/src/main/java/vc/thinker/config/redis/RedisConfig.java
